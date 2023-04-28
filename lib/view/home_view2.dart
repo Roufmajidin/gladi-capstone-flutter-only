@@ -12,7 +12,7 @@ class _HomeView2State extends State<HomeView2> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Home View'),
+        title: const Text('Home View 2'),
       ),
     );
   }
